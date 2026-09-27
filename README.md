@@ -1,4 +1,4 @@
-# Fedora from 39 to 45 - https://github.com/vinberg88/fedora
+# Fedora from 39 to 45 for WSL - 2026
 
 <p align="center">
 <a href="https://github.com/vinberg88/fedora">
