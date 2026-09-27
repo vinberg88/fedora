@@ -28,12 +28,20 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ## 🖥️ KDE Plasma 6 · Fedora 44
 
+<p align="center">
+  <a href="images/fedora44-kde6-x410.png">
+    <img src="images/fedora-kde-x410-demo.gif" alt="Animated demo: checking and starting Fedora 44 KDE Plasma 6 through X410" width="960" />
+  </a>
+</p>
+
+<p align="center"><em>One command takes the setup from health check to a full KDE Plasma desktop.</em></p>
+
+<details>
+<summary><strong>View the full desktop screenshot</strong></summary>
+
 [![Fedora 44 running KDE Plasma 6 through X410 on Windows 11](images/fedora44-kde6-x410.png)](images/fedora44-kde6-x410.png)
 
-<img width="1920" height="1080" alt="Fedora44-KDE6" src="https://github.com/user-attachments/assets/d5068a48-6e8e-497a-ac94-2afa8fec154a" />
-
-
-<p align="center"><em>My Fedora 44 KDE Plasma 6 setup on Windows 11 — desktop startup confirmed working with the X410 launcher.</em></p>
+</details>
 
 A full Plasma desktop with a familiar panel, application launcher and plenty of room to make it your own. The launcher directs the KDE session to **X410** and uses the **WSLg audio socket** when available.
 
@@ -43,7 +51,7 @@ A full Plasma desktop with a familiar panel, application launcher and plenty of 
 | Desktop | KDE Plasma 6, X11 session |
 | Display server | X410 running in Windows |
 | Audio connection | WSLg PulseAudio socket |
-| Launcher | `kde6-x410` · version 0.1.0 |
+| Launcher | `kde6-x410` · version 0.2.0 |
 | Desktop startup | Confirmed working on my setup |
 
 **[View the installer](install-kde6-x410-fedora44.sh)** · **[Download the installer](https://raw.githubusercontent.com/vinberg88/fedora/main/install-kde6-x410-fedora44.sh)**
@@ -72,7 +80,19 @@ kde6-x410 doctor
 kde6-x410 start
 ```
 
-**Start X410 first — every time you start the desktop.**
+For a manual start, **start X410 first**. The Windows shortcut in the next step starts it for you.
+
+### 3. Add a one-click Windows shortcut
+
+After confirming that `kde6-x410 start` works, create a shortcut on your Windows Desktop:
+
+```bash
+kde6-x410 shortcut
+```
+
+The shortcut starts **X410 in Desktop mode**, waits briefly for it to become available and then starts KDE in the current Fedora WSL distribution. If a shortcut with the same name already exists, it is preserved as a timestamped backup.
+
+The Microsoft Store version of X410 should have its `x410.exe` app execution alias enabled in Windows. Standalone X410 installations may need the alias or executable path configured separately.
 
 | Command | Purpose |
 | :--- | :--- |
@@ -80,6 +100,7 @@ kde6-x410 start
 | `kde6-x410 start` | Start KDE Plasma on X410 |
 | `kde6-x410 stop` | Request shutdown of the session started by this launcher |
 | `kde6-x410 log` | Show the latest session log |
+| `kde6-x410 shortcut` | Create a one-click launcher on the Windows Desktop |
 
 <details>
 <summary><strong>Troubleshooting and configuration</strong></summary>
@@ -99,6 +120,8 @@ Logs and the configuration backup are stored under:
 ```
 
 If reporting a problem, include the output of `kde6-x410 doctor` and the relevant lines from `kde6-x410 log`.
+
+If the Windows shortcut opens Fedora but cannot start X410, verify that `x410.exe` is available from a Windows terminal and that the X410 app execution alias is enabled.
 
 </details>
 
