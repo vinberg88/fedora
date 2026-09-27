@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/Windows_11-WSL_2-0078D4?style=flat-square" alt="Windows 11 with WSL 2" />
   <img src="https://img.shields.io/badge/Fedora_44-KDE_Plasma_6-51A2DA?style=flat-square" alt="Fedora 44 with KDE Plasma 6" />
   <img src="https://img.shields.io/badge/X410-X11_desktop-294172?style=flat-square" alt="X11 desktop through X410" />
+  <img src="https://img.shields.io/badge/Desktop_collection-1_tested_%2B_8_coming-6C5CE7?style=flat-square" alt="One tested desktop and eight coming" />
 </p>
 
 <p align="center">
   <a href="#-kde-plasma-6--fedora-44">KDE desktop</a> ·
   <a href="#-start-kde-with-x410">Start guide</a> ·
   <a href="#-desktop-collection">Desktop collection</a> ·
+  <a href="DESKTOPS.md">Roadmap</a> ·
   <a href="https://github.com/vinberg88">More WSL projects</a>
 </p>
 
@@ -130,8 +132,16 @@ If the Windows shortcut opens Fedora but cannot start X410, verify that `x410.ex
 | Fedora | Desktop | Status | Guide |
 | :--- | :--- | :--- | :--- |
 | 44 | KDE Plasma 6 · X410 | ✅ Desktop startup tested | [Start guide](#-start-kde-with-x410) |
+| 44 | GNOME · X410 | 🔜 Next desktop | [Roadmap](DESKTOPS.md#2-gnome) |
+| 44 | XFCE · X410 | 🗓️ Coming soon | [Roadmap](DESKTOPS.md#3-xfce) |
+| 44 | Cinnamon · X410 | 🗓️ Coming soon | [Roadmap](DESKTOPS.md#4-cinnamon) |
+| 44 | Budgie · X410 | 🗓️ Coming soon | [Roadmap](DESKTOPS.md#5-budgie) |
+| 44 | MATE · X410 | 🗓️ Coming soon | [Roadmap](DESKTOPS.md#6-mate) |
+| 44 | LXQt · X410 | 🗓️ Coming soon | [Roadmap](DESKTOPS.md#7-lxqt) |
+| 44 | Deepin · display testing pending | 🧪 Planned experiment | [Roadmap](DESKTOPS.md#8-deepin) |
+| 44 | COSMIC · display testing pending | 🧪 Planned experiment | [Roadmap](DESKTOPS.md#9-cosmic) |
 
-More desktop setups, detailed installation notes and video walkthroughs will be linked here as they are added.
+KDE is the working reference implementation. GNOME comes next, followed by XFCE, Cinnamon, Budgie, MATE, LXQt, Deepin and COSMIC. See the **[desktop roadmap](DESKTOPS.md)** for the rollout order and test checklist.
 
 ---
 
