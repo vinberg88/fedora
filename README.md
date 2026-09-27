@@ -30,6 +30,9 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 [![Fedora 44 running KDE Plasma 6 through X410 on Windows 11](images/fedora44-kde6-x410.png)](images/fedora44-kde6-x410.png)
 
+<img width="1920" height="1080" alt="Fedora44-KDE6" src="https://github.com/user-attachments/assets/d5068a48-6e8e-497a-ac94-2afa8fec154a" />
+
+
 <p align="center"><em>My Fedora 44 KDE Plasma 6 setup on Windows 11 — desktop startup confirmed working with the X410 launcher.</em></p>
 
 A full Plasma desktop with a familiar panel, application launcher and plenty of room to make it your own. The launcher directs the KDE session to **X410** and uses the **WSLg audio socket** when available.
