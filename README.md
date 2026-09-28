@@ -28,11 +28,11 @@ Fedora is a community-developed Linux distribution sponsored by Red Hat, built a
 
 The collection is intended to cover **Fedora 39–45**, with each desktop documented as it is added. The working setup below is **Fedora 44 with KDE Plasma 6**; the version range does not mean every release has been tested or is still supported.
 
-## 🖥️ KDE Plasma 6 · Fedora 44
+## 🖥️ KDE Plasma 6 and Fedora 44 for WSL
 
 <p align="center">
-  <a href="images/fedora44-kde6-x410.png">
-    <img src="images/fedora-kde-x410-demo.gif" alt="Animated demo: checking and starting Fedora 44 KDE Plasma 6 through X410" width="960" />
+  <a href="https://github.com/vinberg88">
+    <img width="1920" height="1080" alt="Fedora44 and KDE6" src="https://github.com/user-attachments/assets/14f4c7d6-95ea-4865-9d81-c83963399f5e" />
   </a>
 </p>
 
