@@ -30,7 +30,7 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ## 🖥️ KDE Plasma 6 and Fedora 44 for WSL
 
-How to install KDE 6 via FEOORA 44 and WSL for WINDOWS 11.
+How to install KDE 6 via FEDORA 44 and WSL for WINDOWS 11.
 
 <p align="center">
   <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
