@@ -38,6 +38,9 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 How to install KDE 6 via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
 
+Video is COMMING via YOUTUBE: COOMING SONE
+
+
 <p align="center"><em>One command takes the setup from health check to a full KDE Plasma desktop.</em></p>
 
 A full Plasma desktop with a familiar panel, application launcher and plenty of room to make it your own. The launcher directs the KDE session to **X410** and uses the **WSLg audio socket** when available.
