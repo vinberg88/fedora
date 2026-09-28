@@ -22,7 +22,7 @@
   <a href="https://github.com/vinberg88">More WSL projects</a>
 </p>
 
-## 💙 Welcome to Fedora
+## 💙 Welcome to Fedora 39 to 45
 
 Fedora is a community-developed Linux distribution sponsored by Red Hat, built around free and open-source software. This repository brings together my Fedora desktop experiments on **Windows 11 with WSL 2** — with screenshots, installation notes and scripts you can use in your own setup.
 
@@ -31,19 +31,14 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 ## 🖥️ KDE Plasma 6 and Fedora 44 for WSL
 
 <p align="center">
-  <a href="https://github.com/vinberg88">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
     <img width="1920" height="1080" alt="Fedora44 and KDE6" src="https://github.com/user-attachments/assets/14f4c7d6-95ea-4865-9d81-c83963399f5e" />
   </a>
 </p>
 
+How to install KDE 6 via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
+
 <p align="center"><em>One command takes the setup from health check to a full KDE Plasma desktop.</em></p>
-
-<details>
-<summary><strong>View the full desktop screenshot</strong></summary>
-
-[![Fedora 44 running KDE Plasma 6 through X410 on Windows 11](images/fedora44-kde6-x410.png)](images/fedora44-kde6-x410.png)
-
-</details>
 
 A full Plasma desktop with a familiar panel, application launcher and plenty of room to make it your own. The launcher directs the KDE session to **X410** and uses the **WSLg audio socket** when available.
 
