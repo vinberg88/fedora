@@ -1,5 +1,11 @@
 # Fedora WSL desktop roadmap
 
+<p align="center">
+  <a href="images/fedora44-kde6-x410.png">
+    <img src="images/fedora-kde-x410-demo.gif" alt="Animated demo: checking and starting Fedora 44 KDE Plasma 6 through X410" width="960" />
+  </a>
+</p>
+
 Nine Fedora desktop experiences are planned for this collection. Each desktop gets its own launcher, diagnostics, Windows shortcut, screenshot and guide before it is marked as tested.
 
 > **Current focus:** KDE Plasma 6 is working. GNOME is next.
