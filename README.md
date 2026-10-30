@@ -42,7 +42,7 @@ How to install KDE 6 via FEDORA 44 and WSL for WINDOWS 11.
 
 How to install KDE 6 via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
 
-Video is COMMING via YOUTUBE: COOMING SONE
+Video via YOUTUBE: https://www.youtube.com/watch?v=L1-jlcBbyxo
 
 ---
 
