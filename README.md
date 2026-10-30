@@ -28,6 +28,8 @@ Fedora is a community-developed Linux distribution sponsored by Red Hat, built a
 
 The collection is intended to cover **Fedora 39–45**, with each desktop documented as it is added. The working setup below is **Fedora 44 with KDE Plasma 6**; the version range does not mean every release has been tested or is still supported.
 
+---
+
 ## 🖥️ KDE Plasma 6 and Fedora 44 for WSL
 
 How to install KDE 6 via FEDORA 44 and WSL for WINDOWS 11.
@@ -42,6 +44,23 @@ How to install KDE 6 via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/m
 
 Video is COMMING via YOUTUBE: COOMING SONE
 
+---
+
+## 🖥️ Cinnamon and Fedora 44 for WSL
+
+How to install Cinnamon via FEDORA 44 and WSL for WINDOWS 11.
+
+<p align="center">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
+    <img width="1920" height="1080" alt="Fedora44 and KDE6" src="https://github.com/user-attachments/assets/14f4c7d6-95ea-4865-9d81-c83963399f5e" />
+  </a>
+</p>
+
+Install Cinnamon via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
+
+Video is COMMING via YOUTUBE: COOMING SONE
+
+---
 
 <p align="center"><em>One command takes the setup from health check to a full KDE Plasma desktop.</em></p>
 
