@@ -6,7 +6,7 @@ How to install KDE 6 via Fedora 44 - TEXT VIA GITHUB
 https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
 
 How to install KDE 6 via Fedora 44 - MOVIE VIA YOUTUBE
-Comming SONE
+https://www.youtube.com/watch?v=L1-jlcBbyxo
 
 You can find FEDORA 44 here for WSL: https://github.com/vinberg88/fedora/releases
 
@@ -37,7 +37,7 @@ cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    OS: Fedora Linux 44 (Container Image) 
 ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Host: Windows Subsystem for Linux - Fedora44  - WSL (2.9.10.0)
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING DEBIAN 14 and GNOME 50 via WSL
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING FEDORA 44 and KDE 6 via WSL
 cccccccc;.:odl:.;cccccccccccccc:,.        
 :cccccccccccccccccccccccccccc:'.          EMAIL: mattiasvinberg@duck.com
 .:cccccccccccccccccccccc:;,..             
@@ -167,7 +167,7 @@ cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    OS: Fedora Linux 44 (Container Image) 
 ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Host: Windows Subsystem for Linux - Fedora44  - WSL (2.9.10.0)
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING DEBIAN 14 and GNOME 50 via WSL
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING FEDORA 44 and KDE 6 via WSL
 cccccccc;.:odl:.;cccccccccccccc:,.        
 :cccccccccccccccccccccccccccc:'.          EMAIL: mattiasvinberg@duck.com
 .:cccccccccccccccccccccc:;,..             
@@ -209,7 +209,7 @@ cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    OS: Fedora Linux 44 (Container Image) 
 ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Host: Windows Subsystem for Linux - Fedora44  - WSL (2.9.10.0)
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING DEBIAN 14 and GNOME 50 via WSL
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING FEDORA 44 and KDE 6 via WSL
 cccccccc;.:odl:.;cccccccccccccc:,.        
 :cccccccccccccccccccccccccccc:'.          EMAIL: mattiasvinberg@duck.com
 .:cccccccccccccccccccccc:;,..             
@@ -338,7 +338,7 @@ cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    OS: Fedora Linux 44 (Container Image) 
 ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Host: Windows Subsystem for Linux - Fedora44  - WSL (2.9.10.0)
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING DEBIAN 14 and GNOME 50 via WSL
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       THANK YOU FOR TESTING FEDORA 44 and KDE 6 via WSL
 cccccccc;.:odl:.;cccccccccccccc:,.        
 :cccccccccccccccccccccccccccc:'.          EMAIL: mattiasvinberg@duck.com
 .:cccccccccccccccccccccc:;,..             
