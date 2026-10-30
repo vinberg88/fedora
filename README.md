@@ -58,7 +58,7 @@ How to install Cinnamon via FEDORA 44 and WSL for WINDOWS 11.
 
 Install Cinnamon via FEOORA 44 - https://github.com/vinberg88/fedora/blob/main/Fedora44-Cinnamon.txt
 
-Video is COMMING via YOUTUBE: https://www.youtube.com/watch?v=zbtGYf1jN3Q
+Video via YOUTUBE: https://www.youtube.com/watch?v=zbtGYf1jN3Q
 
 ---
 
