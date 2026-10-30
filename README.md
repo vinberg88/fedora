@@ -51,12 +51,12 @@ Video is COMMING via YOUTUBE: COOMING SONE
 How to install Cinnamon via FEDORA 44 and WSL for WINDOWS 11.
 
 <p align="center">
-  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
-    <img width="1920" height="1080" alt="Fedora44 and KDE6" src="https://github.com/user-attachments/assets/14f4c7d6-95ea-4865-9d81-c83963399f5e" />
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-Cinnamon.txt">
+    <img width="1920" height="1080" alt="Fedora44-Cinnamon" src="https://github.com/user-attachments/assets/6e1bfcc1-d05a-45b7-a4fb-a062d4ffafc0" />
   </a>
 </p>
 
-Install Cinnamon via FEOORA 44 -  https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt
+Install Cinnamon via FEOORA 44 - https://github.com/vinberg88/fedora/blob/main/Fedora44-Cinnamon.txt
 
 Video is COMMING via YOUTUBE: COOMING SONE
 
