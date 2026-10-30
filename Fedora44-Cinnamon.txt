@@ -4,7 +4,7 @@ How to install Cinnamon Desktop via Fedora 44 - WSL - TEXT via GITHUB
 https://github.com/vinberg88/fedora/blob/main/Fedora44-Cinnamon.txt
 
 How to install Cinnamon Desktop via Fedora 44 - WSL - MOVIE via YOUTUBE
-Comming SONE...
+https://www.youtube.com/watch?v=zbtGYf1jN3Q
 
 Easy way to install fedora via Powershell - Open Powershell from microsoft and run: wsl --install FedoraLinux-44
 
