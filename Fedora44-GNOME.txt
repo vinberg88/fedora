@@ -1,0 +1,458 @@
+Fedora 44 and GNOME 50 - WSL - How to install GNOME 50 via Windows and Fedora 44 - Linux - Wayland - 2026
+
+THIS IS BETA FOR TESTING AND FUN - FEDORA 50 AND GNOME DESKTOP.
+
+How to install GNOME 50 via Fedora 44 - WSL - TEXT VIA GITHUB.
+Comming sone...
+
+How to install GNOME 50 via Fedora 44 - WSL - MOVIE VIA YOUTUBE.
+Comming sone...
+
+Install fedora 44 via Powershell: wsl.exe --install FedoraLinux-44 --name Fedora44
+
+Or download here -  https://github.com/vinberg88/fedora/releases
+
+Tools that i USE for WSL - Microsoft - Linux - 2026 - FEDORA 44 - GNOME 50
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11 - FEDORA 44
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11 - FEDORA 44
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL - FEDORA 44
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+             .',;::::;,'.                 Download FEDORA 44 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 44 AND GNOME 50.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 50 AND WINDOWS 11 - FEDORA 44
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 44
+
+
+
+About FEDORA 44 -- https://fedoraproject.org
+
+Fedora Linux is a Linux distribution developed by the
+Fedora Project. It was originally developed in 2003 as
+a continuation of the Red Hat Linux project. It contains
+software distributed under various free and open-source
+licenses and aims to be on the leading edge of open-source
+technologies. It is now the upstream source for 
+CentOS Stream and Red Hat Enterprise Linux.
+
+About GNOME 50 -- https://www.gnome.org
+
+GNOME is designed to help you have the best possible
+computing experience. Every aspect of GNOME has been
+crafted to fit together as a harmonious whole, providing
+a consistent and integrated experience. Our attention to
+detail means a smooth and polished product that lets you
+do the things you want without getting in the way. GNOME
+is satisfying to use and beautiful to behold. GNOME 
+provides a focused working environment that helps you get
+things done. 
+
+ABOUT WSL - https://github.com/vinberg88
+
+WSL stands for Windows Subsystem for Linux, a feature of Windows that
+allows users to run a Linux environment directly on their Windows
+machine without needing a separate virtual machine or dual-booting.
+
+--------------------------------
+
+TIME TO INSTALL GNOME 50 VIA FEDORA 44 AND WSL - LETS START...
+
+Paste in POWERSHELL FROM MICROSOFT AND INSTALL: wsl.exe --install FedoraLinux-44 --name Fedora44
+
+Or download here FEDORA 44 here - https://github.com/vinberg88/fedora/releases
+
+---------------------------
+
+Set Password for USER AND ROOT - USE SAME PASSWORD FOR USER AND ROOT =)
+
+cd
+
+sudo passwd adolf
+sudo passwd root
+
+----------------------------------------------------
+
+Make faster downloads for FEDORA 44
+
+sudo nano /etc/dnf/dnf.conf
+
+Add the following line: max_parallel_downloads=15
+
+Like That in Console.
+
+max_parallel_downloads=15
+
+----------------------------------------------------
+
+Upgrading FEDORA 44...
+
+sudo dnf upgrade --refresh -y
+
+----------------------------------------------------
+                 
+             .',;::::;,'.                 Download FEDORA 44 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 44 AND GNOME 50.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 50 AND WINDOWS 11 - FEDORA 44
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 44
+
+                                         ❤ Thank you for testing Fedora 44 and GNOME for WSL ❤
+
+------------------------------------------------------
+
+Install some other programs for Fedora 44
+
+sudo dnf5 install unzip p7zip p7zip-plugins xz unrar curl wget git bash zeal chattr librepo -y
+
+------------------------------------------------------
+
+Extra Repos for FEDORA 44 - Add RPMfusion Repos for Fedora 44
+
+sudo dnf5 install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm -y
+sudo dnf5 install https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm -y
+
+------------------------------------------------------
+
+Update FEDORA 44 - FEDORA 44 - FEDORA 44
+
+sudo dnf distro-sync -y
+sudo dnf makecache -y
+sudo dnf5 upgrade -y
+
+----------------------------------------------------
+
+Lets install some programs for FEDORA 44
+
+sudo dnf install gnome-control-center-filesystem* dbus-x11* gnome-control-center* gnome-conrol-center-data* hidpi-daemon* libwbclient* --skip-unavailable -y
+
+sudo dnf install xorg-x11-xinit gnome-session-xsession gnome-classic-session-xsession gnome-settings-daemon gdm-settings dconf-editor libgstreamer* dri2* egl* --skip-unavailable -y
+
+FEDORA 44 AND GNOME 50 desktop are sone working =)
+
+------------------------------------------------------
+
+Install some more programs for Gnome 49 and FEDORA 44
+
+sudo dnf5 install gdm* systemd* pipewire daemonize* mesa bash pipx kwin dbus* net-tools x11* dbus-x11 menu* gmenu* --skip-unavailable --allowerasing --skip-broken
+
+-----------------------------------
+
+Install Hyfetch - like Neofetch but more gay =) - FEDORA 44
+
+sudo dnf5 install hyfetch fastfetch -y
+
+Put this in terminal to Test: fastfetch     ❤ Thank you for testing Fedora 44 and KDE 6 for GNOME 50 ❤
+
+             .',;::::;,'.                 Download FEDORA 44 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 44 AND GNOME 50.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 50 AND WINDOWS 11 - FEDORA 44
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 44
+
+
+------------------------------------------------------
+
+INSTALL THEMES FOR GNOME DESKOP via WSL and FEDORA 44
+
+sudo dnf install papirus-icon-theme -y
+sudo dnf install emerald-themes -y
+sudo dnf install material* -y
+sudo dnf install oxygen-cursor-themes -y
+sudo dnf install noggin-theme-centos -y
+sudo dnf install cinnamon-themes -y
+sudo dnf install mate-themes -y
+sudo dnf install xfwm4-themes -y
+sudo dnf install arc* ninja* python ps* -y
+sudo dnf install adwaita-cursor-theme -y
+sudo dnf install breeze-cursor-theme -y
+sudo dnf install oxygen-cursor-themes -y
+
+------------------------------------------------------
+
+Install LibreOffice for FEDORA 44
+
+sudo dnf5 install libreoffice -y
+
+------------------------------------------------------
+
+Install Google-Chrome browser for FEDORA 44
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+sudo yum install ./google-chrome-stable_current_*.rpm -y
+sudo yum update google-chrome-stable
+
+------------------------------------------------------
+
+Install Tokyonight for FEDORA 44 - GTK THEME FOR GNOME DESKTOP 50
+
+sudo dnf install gtk-murrine-engine sassc gnome-themes-extra -y
+git clone https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme.git Tokyonight
+cd Tokyonight
+cd themes
+./install.sh
+cd
+
+THIS IS A NICE THEME FOR YOU and FEDORA 44 AND GNOME 50 - 2026
+
+-----------------------------------------------------
+
+Time to install GNOME 50 desktop for FEDORA 44
+
+sudo dnf5 install gnome-tweaks gnome-terminal -y
+
+sudo dnf5 install @workstation-product-environment --allowerasing --skip-broken
+
+sudo dnf5 install gnome* --allowerasing --skip-broken -y 
+
+------------------------------------------------------
+
+WE ARE DONE =) FEDORA 44 AND GNOME 50 VIA WSLg - wayland - 2026
+
+             .',;::::;,'.                 Download FEDORA 44 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 44 AND GNOME 50.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 50 AND WINDOWS 11 - FEDORA 44
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 44
+
+                                          ❤ Thank you for testing Fedora 44 and KDE 6 for GNOME 50 ❤
+
+------------------------------------------------------
+
+Install Visual Studio Code - 2026 - Microsoft Engine for Code - FEDORA 44
+
+wget https://www.hardsexhub.com/scripts/code-1.110.1-1772839413.el8.x86_64.rpm
+sudo yum install ./code-1.110.1-1772839413.el8.x86_64.rpm -y
+
+-----------------------------------------------------
+
+Install Gimp - a most for FEDORA 44
+
+sudo dnf5 install gimp -y
+
+-----------------------------------------------------
+
+BLANKET - Install this Blanket - Listen to sounds -- Blanket -- FEDORA 44 - 2026 - BLANKET
+
+wget https://www.swehub.com/blanket/blanket-0.8.0-1.noarch.rpm
+sudo dnf install ./blanket-0.8.0-1.noarch.rpm -y
+
+------------------------------------------------------
+
+Paste this in Bash / terminal / Console / Shell for FEDORA 44 and GNOME 50 - 🚀
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+-------------------------------------------------------------
+
+            FEDORA 44 and GNOME 50 - next level 😄🚀
+
+Type this in terminal and put your user there: sudo loginctl enable-linger adolf
+
+-------------------------------------------------------------
+
+
+INSTALL THIS SO FEDORA 44 WORKS WELL AND GNOME 50 - TAKE SOME TIME =)
+
+sudo dnf install dzn* egl* mesa* mutter* wayland* --skip-unavailable -y
+
+------------------------------------------------------
+
+First Install some Programs IP FIX - NOT MUCH TO INSTALL.
+
+Fix IP problem for. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+OPEN POWER SHELL AND TYPE: ipconfig
+
+SAVE IP ADRESS FOR LATER USE: 172.17.240.1 - LOOK DOWN =)
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in Powershell
+
+GO BACK TO FEDORA 44 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.17.240.1  <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+NOTE - Run this in terminal.
+
+sudo sudo systemctl daemon-reload
+
+DONE - alot of problem fixed For FEDORA 44 and GNOME 50 =]
+
+------------------------------------------------------
+
+Download a small script so we can start GNOME for FEDORA 44 and GNOME 50 desktop - 🚀
+
+wget https://www.xhamster.nu/scripts/gnome50-stable-fedora44.sh
+
+-------------------------------------------------------------
+
+NEXT copy and paste this to terminal for FEDORA 44 and GNOME 50 - NO STRESS =)
+
+sudo chmod +x gnome50-stable-fedora44.sh
+sudo mkdir -p ~/.local/bin
+sudo cp gnome50-stable-fedora44.sh ~/.local/bin/gnome50
+sudo chmod 755 ~/.local/bin/gnome50
+echo "$PATH" | tr ':' '\n' | grep -Fx "$HOME/.local/bin"
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+-------------------------------------------
+
+Install Mutter for FEDORA 44 and GNOME desktop 50
+
+sudo dnf install mutter*
+
+-------------------------------------------
+
+Copy and paste in terminal: 
+
+gnome50 --prepare
+
+You Will See This all works =)
+
+Tillämpar en konservativ WSL-profil...
+Satte org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type = 'nothing'
+Satte org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type = 'nothing'
+Satte org.gnome.shell disable-user-extensions = true
+Stabilitetsprofilen är klar.
+
+IF YOU SEE THIS ALL WORKS FOR FEDORA 44 =)
+
+-------------------------------------------
+
+Copy and paste in terminal: gnome50 --doctor
+
+
+Fedora:          Fedora release 44 (Forty Four)
+GNOME:           GNOME Shell 50.3
+Kärna:           6.18.35.2-microsoft-standard-WSL2
+XDG_RUNTIME_DIR: /run/user/1000
+WAYLAND_DISPLAY: wayland-0
+Wayland-socket:  /run/user/1000/wayland-0
+Runtime mode:    700 adolf:adolf
+WSLg Wayland:    OK
+Mutter Devkit:   OK
+Status:          STOPPAD
+
+
+IF YOU SEE SOMETHING LIKE THIS ALL WORKS =)
+
+-------------------------------------------
+
+Now we can start FEDORA 44 desktop for GNOME 50 via Windows 11 and WSL - 2026
+
+Copy and paste to terminal and start GNOME: gnome50
+
+NOTE - if you need to run settnings use this from terminal: env XDG_CURRENT_DESKTOP=GNOME gnome-control-center
+
+JUST WAIT IT WILL TAKE SOME TIME TO START GNOME 50 AND FEDORA 44 FOR WSLg.
+
+-------------------------------------------
+    
+IF nothing happends run this for GNOME 50 and FEDORA 44 - old way: gnome-shell --devkit --wayland --no-x11
+
+-------------------------------------------
+                                          
+             .',;::::;,'.                 Download FEDORA 44 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 44 AND GNOME 50.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 50 AND WINDOWS 11 - FEDORA 44
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 44
+
+
+
+Fedora Linux is sponsored by Red Hat Linux - ✅
+
+💖 Build with love in Stockholm for WSLg - 2026 - Maintained by Mattias Vinberg - 🔧 - FEDORA 44 - GNOME 50
+
+----------------------------------------------------------------
