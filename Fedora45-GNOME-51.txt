@@ -1,0 +1,455 @@
+FEDORA 45 and GNOME 51.1 - WSL - How to install GNOME 51.1 via Windows and FEDORA 45 - Linux - Wayland - 2026
+
+How to install GNOME 51.1 via FEDORA 45 - WSL - TEXT VIA GITHUB.
+Comming SONE...
+
+How to install GNOME 51.1 via FEDORA 45 - WSL - MOVIE VIA YOUTUBE.
+Comming SONE...
+
+Install FEDORA 45 via Powershell: wsl.exe --install FedoraLinux-45 --name Fedora45
+
+Or download here - https://github.com/vinberg88/fedora/releases
+
+Tools that i USE for WSL - Microsoft - Linux - 2026 - FEDORA 45 - GNOME 51.1
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11 - FEDORA 45
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL - FEDORA 45
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+             .',;::::;,'.                 Download FEDORA 45 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 45 AND GNOME 51.1.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-44 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 45 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 51.1 AND WINDOWS 11 - FEDORA 45
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 45
+
+
+
+About FEDORA 45 -- https://fedoraproject.org
+
+Fedora Linux is a Linux distribution developed by the Fedora Project.
+It was originally developed in 2003 as a continuation of the Red Hat
+Linux project. It contains software distributed under various free
+and open-source licenses and aims to be on the leading edge 
+of open-source technologies. It is now the upstream source for 
+CentOS Stream and Red Hat Enterprise Linux.
+
+About GNOME 51.1 -- https://www.gnome.org
+
+GNOME is designed to help you have the best possible
+computing experience. Every aspect of GNOME has been
+crafted to fit together as a harmonious whole, providing
+a consistent and integrated experience. Our attention to
+detail means a smooth and polished product that lets you
+do the things you want without getting in the way. GNOME
+is satisfying to use and beautiful to behold. GNOME 
+provides a focused working environment that helps you get
+things done. 
+
+ABOUT WSL - https://github.com/vinberg88 - FEDORA 45
+
+WSL stands for Windows Subsystem for Linux, a feature of Windows that
+allows users to run a Linux environment directly on their Windows
+machine without needing a separate virtual machine or dual-booting.
+
+--------------------------------
+
+TIME TO INSTALL GNOME 51.1 VIA FEDORA 45 AND WSL - LETS START...
+
+Paste in POWERSHELL FROM MICROSOFT AND INSTALL: wsl.exe --install FedoraLinux-45 --name Fedora45
+
+Or download here FEDORA 45 here - https://github.com/vinberg88/fedora/releases
+
+---------------------------
+
+Set Password for USER AND ROOT - FEDORA 45 - USE SAME PASSWORD FOR USER AND ROOT =)
+
+cd
+
+sudo passwd adolf
+sudo passwd root
+
+----------------------------------------------------
+
+Make faster downloads for FEDORA 45
+
+sudo nano /etc/dnf/dnf.conf
+
+Add the following line: max_parallel_downloads=15
+
+Like That in Console.
+
+max_parallel_downloads=15
+
+----------------------------------------------------
+
+Upgrading FEDORA 45 for GNOME DESKTOP.
+
+sudo dnf upgrade --refresh -y
+
+----------------------------------------------------
+                 
+             .',;::::;,'.                 Download FEDORA 45 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 45 AND GNOME 51.1.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-45 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 51.1 AND WINDOWS 11 - FEDORA 45
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 45
+
+                                         ❤ Thank you for testing FEDORA 45 and GNOME for WSL ❤
+
+------------------------------------------------------
+
+Install some other programs for FEDORA 45
+
+sudo dnf5 install unzip p7zip p7zip-plugins xz unrar curl wget git bash zeal chattr librepo -y
+
+------------------------------------------------------
+
+Extra Repos for FEDORA 45 - Add RPMfusion Repos for FEDORA 45
+
+sudo dnf5 install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm -y
+sudo dnf5 install https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm -y
+
+------------------------------------------------------
+
+Update FEDORA 45 - FEDORA 45 - FEDORA 45
+
+sudo dnf distro-sync -y
+sudo dnf makecache -y
+sudo dnf5 upgrade -y
+
+----------------------------------------------------
+
+Lets install some programs for FEDORA 45
+
+sudo dnf install gnome-control-center-filesystem* dbus-x11* gnome-control-center* gnome-conrol-center-data* hidpi-daemon* libwbclient* --skip-unavailable -y
+
+sudo dnf install xorg-x11-xinit gnome-session-xsession gnome-classic-session-xsession gnome-settings-daemon gdm-settings dconf-editor libgstreamer* dri2* egl* --skip-unavailable -y
+
+FEDORA 45 AND GNOME 51.1 desktop are sone working =)
+
+------------------------------------------------------
+
+Install some more programs for Gnome 51 and FEDORA 45
+
+sudo dnf5 install gdm* systemd* pipewire daemonize* mesa bash pipx kwin dbus* net-tools x11* dbus-x11 menu* gmenu* --skip-unavailable --allowerasing --skip-broken
+
+-----------------------------------
+
+Install Hyfetch - like Neofetch but more gay =) - FEDORA 45
+
+sudo dnf5 install hyfetch fastfetch -y
+
+Put this in terminal to Test: fastfetch     ❤ Thank you for testing FEDORA 45 and KDE 6 for GNOME 51.1 ❤
+
+             .',;::::;,'.                 Download FEDORA 45 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 45 AND GNOME 51.1.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-45 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 51.1 AND WINDOWS 11 - FEDORA 45
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 45
+
+
+------------------------------------------------------
+
+INSTALL THEMES FOR GNOME DESKOP via WSL and FEDORA 45
+
+sudo dnf install papirus-icon-theme -y
+sudo dnf install emerald-themes -y
+sudo dnf install material* -y
+sudo dnf install oxygen-cursor-themes -y
+sudo dnf install noggin-theme-centos -y
+sudo dnf install cinnamon-themes -y
+sudo dnf install mate-themes -y
+sudo dnf install xfwm4-themes -y
+sudo dnf install arc* ninja* python ps* -y
+sudo dnf install adwaita-cursor-theme -y
+sudo dnf install breeze-cursor-theme -y
+sudo dnf install oxygen-cursor-themes -y
+
+------------------------------------------------------
+
+Install LibreOffice for FEDORA 45
+
+sudo dnf5 install libreoffice -y
+
+------------------------------------------------------
+
+Install Google-Chrome browser for FEDORA 45
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+sudo yum install ./google-chrome-stable_current_*.rpm -y
+sudo yum update google-chrome-stable
+
+------------------------------------------------------
+
+Install Tokyonight for FEDORA 45 - GTK THEME FOR GNOME 51
+
+sudo dnf install gtk-murrine-engine sassc gnome-themes-extra -y
+git clone https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme.git Tokyonight
+cd Tokyonight
+cd themes
+./install.sh
+cd
+
+THIS IS A NICE THEME FOR YOU and FEDORA 45 AND GNOME 51.1 - 2026
+
+-----------------------------------------------------
+
+Time to install GNOME 51.1 desktop for FEDORA 45
+
+sudo dnf5 install gnome-tweaks gnome-terminal -y
+
+sudo dnf5 install @workstation-product-environment --allowerasing --skip-broken
+
+sudo dnf5 install gnome* --allowerasing --skip-broken -y 
+
+------------------------------------------------------
+
+WE ARE DONE =) FEDORA 45 AND GNOME 51.1 VIA WSLg - wayland - 2026
+
+             .',;::::;,'.                 Download FEDORA 45 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 45 AND GNOME 51.1.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-45 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 44 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 51.1 AND WINDOWS 11 - FEDORA 45
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 45
+
+                                          ❤ Thank you for testing FEDORA 45 and KDE 6 for GNOME 51.1 ❤
+
+------------------------------------------------------
+
+Install Visual Studio Code - 2026 - Microsoft Engine for Code - FEDORA 45
+
+wget https://www.hardsexhub.com/scripts/code-1.110.1-1772839413.el8.x86_64.rpm
+sudo yum install ./code-1.110.1-1772839413.el8.x86_64.rpm -y
+
+-----------------------------------------------------
+
+Install Gimp - a most for FEDORA 45
+
+sudo dnf5 install gimp -y
+
+-----------------------------------------------------
+
+BLANKET - Install this Blanket - Listen to sounds -- Blanket -- FEDORA 45 - 2026 - BLANKET
+
+wget https://www.swehub.com/blanket/blanket-0.8.0-1.noarch.rpm
+sudo dnf install ./blanket-0.8.0-1.noarch.rpm -y
+
+------------------------------------------------------
+
+Paste this in Bash / terminal / Console / Shell for FEDORA 45 and GNOME 51.1 - 🚀
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+-------------------------------------------------------------
+
+            FEDORA 45 and GNOME 51.1 - next level 😄🚀
+
+Type this in terminal and put your user there: sudo loginctl enable-linger adolf
+
+-------------------------------------------------------------
+
+
+INSTALL THIS SO FEDORA 45 WORKS WELL AND GNOME 51.1 - TAKE SOME TIME =)
+
+sudo dnf install dzn* egl* mesa* mutter* wayland* --skip-unavailable -y
+
+------------------------------------------------------
+
+First Install some Programs IP FIX - NOT MUCH TO INSTALL.
+
+Fix IP problem for. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+OPEN POWER SHELL AND TYPE: ipconfig
+
+SAVE IP ADRESS FOR LATER USE: 172.21.224.1 - LOOK DOWN =)
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in Powershell
+
+GO BACK TO FEDORA 45 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.21.224.1  <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+NOTE - Run this in terminal.
+
+sudo sudo systemctl daemon-reload
+
+DONE - alot of problem fixed For FEDORA 45 and GNOME 51.1 =]
+
+------------------------------------------------------
+
+Download a small script so we can start GNOME for FEDORA 45 and GNOME 51.1 desktop - 🚀
+
+wget https://www.xhamster.nu/scripts/gnome50-stable-fedora44.sh
+
+-------------------------------------------------------------
+
+NEXT copy and paste this to terminal for FEDORA 45 and GNOME 51 - NO STRESS =)
+
+sudo chmod +x gnome50-stable-fedora44.sh
+sudo mkdir -p ~/.local/bin
+sudo cp gnome50-stable-fedora44.sh ~/.local/bin/gnome50
+sudo chmod 755 ~/.local/bin/gnome50
+echo "$PATH" | tr ':' '\n' | grep -Fx "$HOME/.local/bin"
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+-------------------------------------------
+
+Install Mutter for FEDORA 45 and GNOME desktop 51
+
+sudo dnf install mutter*
+
+-------------------------------------------
+
+Copy and paste in terminal - FEDORA 45 and GNOME desktop 51
+
+gnome50 --prepare
+
+You Will See This all works =)
+
+Tillämpar en konservativ WSL-profil...
+Satte org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type = 'nothing'
+Satte org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type = 'nothing'
+Satte org.gnome.shell disable-user-extensions = true
+Stabilitetsprofilen är klar.
+
+IF YOU SEE THIS ALL WORKS FOR FEDORA 45 =)
+
+-------------------------------------------
+
+Copy and paste in terminal: gnome50 --doctor
+
+
+Fedora:          Fedora release 45 (Forty Four)
+GNOME:           GNOME Shell 50.3
+Kärna:           6.18.35.2-microsoft-standard-WSL2
+XDG_RUNTIME_DIR: /run/user/1000
+WAYLAND_DISPLAY: wayland-0
+Wayland-socket:  /run/user/1000/wayland-0
+Runtime mode:    700 adolf:adolf
+WSLg Wayland:    OK
+Mutter Devkit:   OK
+Status:          STOPPAD
+
+
+IF YOU SEE SOMETHING LIKE THIS ALL WORKS =)
+
+-------------------------------------------
+
+REBOOT FEDORA 45 - REBOOT FEDORA 45 - REBOOT FEDORA 45 - REBOOT FEDORA 45
+
+-------------------------------------------
+
+Now we can start FEDORA 45 desktop for GNOME 51 via Windows 11 and WSL - 2026
+
+Copy and paste to terminal and start GNOME: gnome50
+
+NOTE - if you need to run settnings use this from terminal: env XDG_CURRENT_DESKTOP=GNOME gnome-control-center
+
+JUST WAIT IT WILL TAKE SOME TIME TO START GNOME 51.1 AND FEDORA 45 FOR WSLg.
+
+-------------------------------------------
+    
+IF nothing happends run this for GNOME 51 and FEDORA 45 - old way: gnome-shell --devkit --wayland --no-x11
+
+-------------------------------------------
+                                          
+             .',;::::;,'.                 Download FEDORA 45 HERE - https://github.com/vinberg88/fedora/releases
+         .';:cccccccccccc:;,.
+      .;cccccccccccccccccccccc;.          THANKS FOR WATCHING ABOUT FEDORA 45 AND GNOME 51.
+    .:cccccccccccccccccccccccccc:.      
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      FIND ME HERE - https://github.com/vinberg88
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:. 
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    OS: Windows 11 Pro for Workstations (26H2) x86_64
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   
+:cccccccccccccc;MMM.;cccccccccccccccc:    Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Host: Windows Subsystem for Linux - FedoraLinux-45 (3.0.4.0)
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'    
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     OS: Fedora Linux 45 (WSL) x86_64
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;         
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       DEKSTOP GNOME 51 AND WINDOWS 11 - FEDORA 45
+cccccccc;.:odl:.;cccccccccccccc:,.                     
+:cccccccccccccccccccccccccccc:'.          MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM 2026
+.:cccccccccccccccccccccc:;,.. 
+  '::cccccccccccccc::;,.                  Windows 11 - GNOME DESKTOP and LINUX - FEDORA 45
+
+
+Fedora Linux is sponsored by Red Hat Linux - ✅
+
+💖 Build with love in Stockholm for WSLg - 2026 - Maintained by Mattias Vinberg - 🔧 - FEDORA 45 - GNOME 51.1
+
+----------------------------------------------------------------
