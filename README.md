@@ -30,7 +30,32 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ---
 
-## 🖥️ GNOME 50 AND FEDORA 44 FOR WSL - COMMING NOW - 2026
+## 🖥️ NEW - FEDORA 45 and GNOME 51 for WSL - 2026
+
+How to install GNOME 51.1 via Windows and FEDORA 45 - Linux - Wayland - 2026
+
+Fedora 45 download here - https://github.com/vinberg88/fedora/releases
+
+How to install GNOME 51 via FEDORA 45 - https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt
+
+How to install GNOME 51 via FEDORA 45 - WSL - MOVIE VIA YOUTUBE - Comming SONE...
+
+<p align="center">
+  <a href="https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt">
+<img width="1920" height="1080" alt="Fedora45-GNOME-51" src="https://github.com/user-attachments/assets/fe9eb151-8b94-4198-817f-0a027bd27449" />
+  </a>
+</p>
+
+About Fedora 45 for WSL - The leading Linux desktop - For Linux Lovers.
+
+The leading Linux desktop. A beautiful, high-quality desktop featuring GNOME, built on the latest open source technology. Trusted, powerful and easy.
+Fedora offers a fantastic collection of apps which cater to every need. Easily install the very best desktop apps with the click of a button from 
+Fedora's repositories, Flathub or anywhere else. Makes the most of your device - Fedora works with hardware vendors to make excellent hardware support
+across a range of devices.
+
+---
+
+## 🖥️ GNOME 50 AND FEDORA 44 FOR WSL - 2026
 
 Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project.
 
