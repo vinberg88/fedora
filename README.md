@@ -30,6 +30,36 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ---
 
+## 🖥️ KDE Plasma 6 and Fedora 43 for WSL - Comming SONE.
+
+Fedora 43 and KDE 6 - WSL - How to install KDE 6 via Windows and Fedora 43 - Linux - YouTube - 2026
+
+How to install KDE 6 via Fedora 43 - WSL - TEXT VIA GITHUB - FEDORA 43
+Comming SONE text VIA GITHUB.
+
+How to install KDE 6 via Fedora 43 - WSL - MOVIE VIA YOUTUBE - 2026
+Comming SONE Video from YouTUBE.
+
+<p align="center">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
+<img width="1920" height="1080" alt="Fedora-43-KDE6" src="https://github.com/user-attachments/assets/c12f2db0-4fa9-4caa-be8e-1d7854002d91" />
+  </a>
+</p>
+
+DownLoad Fedora 43 for WSL HERE - https://github.com/vinberg88/fedora/releases
+
+Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat 
+Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge of open-source
+technologies. It is now the upstream source for CentOS Stream and Red Hat Enterprise Linux.
+
+What is KDE 6 Plasma - https://kde.org
+
+Use Plasma to surf the web; keep in touch with colleagues, friends and family; manage your files, enjoy music and videos; and get
+creative and productive at work. Do it all in a beautiful environment that adapts to your needs, and with the safety, privacy-protection and
+peace of mind that the best Free Open Source Software has to offer. KDE 6 Plasma is a Desktop for next life =)
+
+---
+
 ## 🖥️ KDE Plasma 6 and Fedora 44 for WSL
 
 How to install KDE 6 via FEDORA 44 and WSL for WINDOWS 11.
