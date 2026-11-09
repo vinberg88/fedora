@@ -30,6 +30,28 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ---
 
+## 🖥️ GNOME 50 AND FEDORA 44 FOR WSL - COMMING NOW - 2026
+
+Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project.
+
+How to install GNOME 50 via Fedora 44 - https://github.com/vinberg88/fedora/blob/main/Fedora-43-KDE6.txt
+
+Fedora 45 and GNOME 50 for WSL - How to install GNOME via Windows and Fedora 44 - Linux - YouTube - 2026
+COMMING SONE - WORKING ON THIS NOW...
+
+<p align="center">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora-43-KDE6.txt">
+<img width="1920" height="1080" alt="Fedora44-GNOME" src="https://github.com/user-attachments/assets/457bd8ed-d0cc-4dc0-a0c8-537b9fd51968" />
+  </a>
+</p>
+
+GNOME is designed to help you have the best possible computing experience. Every aspect of GNOME has been
+crafted to fit together as a harmonious whole, providing a consistent and integrated experience.
+
+Download FEDORA 44 - https://github.com/vinberg88/fedora/releases
+
+---
+
 ## 🖥️ KDE Plasma 6 and Fedora 43 for WSL - Comming SONE.
 
 Fedora 43 and KDE 6 - WSL - How to install KDE 6 via Windows and Fedora 43 - Linux - YouTube - 2026
