@@ -1,0 +1,320 @@
+Fedora 43 and KDE 6 - WSL - How to install KDE 6 via Windows and Fedora 43 - X410 - Linux - YouTube - 2026
+
+How to install KDE 6 via Fedora 43 - WSL - TEXT VIA GITHUB - FEDORA 43
+Comming SONE text VIA GITHUB.
+
+How to install KDE 6 via Fedora 43 - WSL - MOVIE VIA YOUTUBE - 2026
+Comming SONE Video from YouTUBE.
+
+Whant more FEDORA and Other FEDORA versions look here - https://github.com/vinberg88/fedora
+
+Easy way to install fedora 43 - Download WSL - https://github.com/vinberg88/fedora/releases
+
+Tools that i USE for WSL - Microsoft - Linux - 2026 - FEDORA 43
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11 - FEDORA 43
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11 - FEDORA 43
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL - FEDORA 43
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+             .',;::::;,'.                   OS: Fedora 43 for WSL x86_64
+         .';:cccccccccccc:;,.                           
+      .;cccccccccccccccccccccc;.            Host: Windows Subsystem for Linux - fedoraremix (3.0.5.0)          
+    .:cccccccccccccccccccccccccc:.                 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.        Kernel: Linux 6.18.58.1-microsoft-standard-WSL2     
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.           
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.      MEDIA - MATTIAS VINBERG - FEDORDA 43 FOR WSL - Windows 11   
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,        
+:cccccccccccccc;MMM.;cccccccccccccccc:      See more image for WSL - https://github.com/vinberg88
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:        
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;      Look here: https://github.com/vinberg88/opensuse   
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'        
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;       Mail - vinberg@duck.com  
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;          
+cccccc;dNMWXXXWM0:;cccccccccccccc:,         Download WSL here - https://github.com/vinberg88/fedora/releases
+cccccccc;.:odl:.;cccccccccccccc:,.            
+:cccccccccccccccccccccccccccc:'.            About FEDORA 43  https://fedoraproject.org  
+.:cccccccccccccccccccccc:;,..                 
+                                            Movies via YOUTUBE - https://www.youtube.com/@mattiasvinberg
+                                             
+
+About FEDORA 43  https://fedoraproject.org
+
+DownLoad Fedora 43 for WSL HERE - https://github.com/vinberg88/fedora/releases
+
+Fedora Linux is a Linux distribution developed by the Fedora Project.
+It was originally developed in 2003 as a continuation of the Red Hat 
+Linux project. It contains software distributed under various free
+and open-source licenses and aims to be on the leading edge of open-source
+technologies. It is now the upstream source for CentOS Stream and Red Hat
+Enterprise Linux.
+
+What is KDE 6 Plasma - https://kde.org
+
+Use Plasma to surf the web; keep in touch with colleagues, friends
+and family; manage your files, enjoy music and videos; and get
+creative and productive at work. Do it all in a beautiful environment
+that adapts to your needs, and with the safety, privacy-protection and
+peace of mind that the best Free Open Source Software has to offer.
+KDE 6 Plasma is a Desktop for next life =)
+
+Want more stuff for WSL look here: https://github.com/vinberg88/opensuse
+
+See more image for WSL - https://github.com/vinberg88
+
+--------------------------------
+
+TIME TO INSTALL KDE 6 VIA FEDORA 43 AND WSL - LETS START.
+
+--------------------------------
+
+Download WSL image here - https://github.com/vinberg88/fedora/releases
+
+Press ths blue Icon and you are ready to run FEDORA 43 for WSL.
+
+----------------------------------------------
+
+LOGIN AS NORMAL USER - LOGIN AS NORMAL USER - LOGIN AS NORMAL USER
+
+sudo dnf update -y
+
+----------------------------------------------
+
+Add this Repos to Fedora 43
+
+sudo dnf5 install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm -y
+sudo dnf5 install https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm -y
+
+-----------------------------------
+
+Paste in terminal - Update Fedora 43
+
+sudo dnf upgrade --refresh
+
+-----------------------------------
+
+Install KDE 6 for Fedora 43
+
+sudo dnf -y group install kde-desktop
+
+sudo dnf -y install plasma-workspace-x11
+
+sudo dnf install kde* --allowerasing --skip-broken --no-best
+
+sudo dnf install plasma* --allowerasing --skip-broken --no-best
+
+-----------------------------------
+
+Install some basic programs for fedora 43. You Need it =)
+
+sudo dnf install git wget curl bash pipx dracut net-tools dbus-x11 dbus* yum -y
+
+-----------------------------------
+
+Install Hyfetch - like Neofetch but more FUN =)
+
+pipx install hyfetch
+pipx ensurepath
+
+Put this in terminal to Test after Quick restart of terminal: hyfetch
+
+
+             .',;::::;,'.                   OS: Fedora 43 for WSL x86_64
+         .';:cccccccccccc:;,.                           
+      .;cccccccccccccccccccccc;.            Host: Windows Subsystem for Linux - fedoraremix (3.0.5.0)          
+    .:cccccccccccccccccccccccccc:.                 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.        Kernel: Linux 6.18.58.1-microsoft-standard-WSL2     
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.           
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.      MEDIA - MATTIAS VINBERG - FEDORDA 43 FOR WSL - Windows 11   
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,        
+:cccccccccccccc;MMM.;cccccccccccccccc:      See more image for WSL - https://github.com/vinberg88
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:        
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;      Look here: https://github.com/vinberg88/opensuse   
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'        
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;       Mail - vinberg@duck.com  
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;          
+cccccc;dNMWXXXWM0:;cccccccccccccc:,         Download WSL here - https://github.com/vinberg88/fedora/releases
+cccccccc;.:odl:.;cccccccccccccc:,.            
+:cccccccccccccccccccccccccccc:'.            About FEDORA 43  https://fedoraproject.org  
+.:cccccccccccccccccccccc:;,..                 
+                                            Movies via YOUTUBE - https://www.youtube.com/@mattiasvinberg
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16 - Wayland
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-----------------------------------
+
+Install Chromium Browser - paste all under this paragraph in terminal - Fedora 43
+
+sudo dnf install chromium -y
+
+------------------------------------------------------
+
+Install CODE Visual studio code - 2026 - MicroSoft - FEDORA 43
+
+wget https://www.knulla.org/scripts/code-1.95.3-1731513157.el8.x86_64.rpm
+sudo dnf install ./code-1.95.3-1731513157.el8.x86_64.rpm -y
+
+-----------------------------------------------------
+
+Install Gimp for Fedora 43
+
+sudo dnf install gimp -y
+
+-------------------------------------------------------------
+
+Install LibreOffice for Fedora 43
+
+sudo dnf install libreoffice -y
+
+-------------------------------------------------------------
+
+Install some more programs for Fedora 43 and KDE 6 - 2025
+
+sudo dnf5 install dconf-editor curl* wget git bash* zeal* demonized* chattr* librepo* --skip-unavailable -y
+
+------------------------------------------------------
+
+Fix IP problem X410. Cant find screen problems. Look ip adress in windows terminal / PowerShell: ipconfig
+
+NOTE: open Powershell and type: ipconfig 
+
+Save IP HERE: 172.27.160.1
+
+Last lines is WSL ip.
+
+Go back to fedora 43 terminal and copy and paste this....
+
+sudo dnf install systemd-resolved
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.27.160.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =] If you see some red text dont worry it works any way.
+
+------------------------------------------------------
+
+Listen to ambient sounds - Improve focus and increase your productivity by listening to different ambient sounds
+
+sudo dnf install flatpak*
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+sudo flatpak install flathub com.rafaelmardojai.Blanket
+
+------------------------------------------------------
+
+Copy and Paste in terminal for Fedora 43 
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+-----------------------------------
+
+Type in terminal: sudo nano ~/.bash_Fedora_desktop
+
+Paste this in terminal and save nano:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+----------------------------------------------------------------
+
+             .',;::::;,'.                   OS: Fedora 43 for WSL x86_64
+         .';:cccccccccccc:;,.                           
+      .;cccccccccccccccccccccc;.            Host: Windows Subsystem for Linux - fedoraremix (3.0.5.0)          
+    .:cccccccccccccccccccccccccc:.                 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.        Kernel: Linux 6.18.58.1-microsoft-standard-WSL2     
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.           
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.      MEDIA - MATTIAS VINBERG - FEDORDA 43 FOR WSL - Windows 11   
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,        
+:cccccccccccccc;MMM.;cccccccccccccccc:      See more image for WSL - https://github.com/vinberg88
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:        
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;      Look here: https://github.com/vinberg88/opensuse   
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'        
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;       Mail - vinberg@duck.com  
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;          
+cccccc;dNMWXXXWM0:;cccccccccccccc:,         Download WSL here - https://github.com/vinberg88/fedora/releases
+cccccccc;.:odl:.;cccccccccccccc:,.            
+:cccccccccccccccccccccccccccc:'.            About FEDORA 43  https://fedoraproject.org  
+.:cccccccccccccccccccccc:;,..                 
+                                            Movies via YOUTUBE - https://www.youtube.com/@mattiasvinberg
+
+----------------------------------------------------------------
+
+Paste this one time in Console - Fedora 43
+
+sudo mkdir /run/user/1000 && sudo chmod 700 /run/user/1000 && sudo chown $(whoami): /run/user/1000
+
+------------------------------------------------------
+
+Type this in terminal for fedora 43 and put your user there - sudo loginctl enable-linger adolf
+
+------------------------------------------------------
+
+Time to start KDE 6 and Fedora 43 - Paste One by One!
+
+NOTE - FIRST START X410 THEN YOU START FEDORA 43 VIA TERMINAL
+
+wget https://www.xhamster.nu/scripts/install-kde6-x410-fedora43.sh
+
+Copy and paste This: bash install-kde6-x410-fedora43.sh
+
+Copy and paste This: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Copy and paste This:  kde6-x410 doctor
+
+Copy and paste This:  kde6-x410 start
+
+----------------------------------------------------------------
+
+             .',;::::;,'.                   OS: Fedora 43 for WSL x86_64
+         .';:cccccccccccc:;,.                           
+      .;cccccccccccccccccccccc;.            Host: Windows Subsystem for Linux - fedoraremix (3.0.5.0)          
+    .:cccccccccccccccccccccccccc:.                 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.        Kernel: Linux 6.18.58.1-microsoft-standard-WSL2     
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.           
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.      MEDIA - MATTIAS VINBERG - FEDORDA 43 FOR WSL - Windows 11   
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,        
+:cccccccccccccc;MMM.;cccccccccccccccc:      See more image for WSL - https://github.com/vinberg88
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:        
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;      Look here: https://github.com/vinberg88/opensuse   
+ccccc;XM0';cccc;MMM.;cccccccccccccccc'        
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;       Mail - vinberg@duck.com  
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;          
+cccccc;dNMWXXXWM0:;cccccccccccccc:,         Download WSL here - https://github.com/vinberg88/fedora/releases
+cccccccc;.:odl:.;cccccccccccccc:,.            
+:cccccccccccccccccccccccccccc:'.            About FEDORA 43  https://fedoraproject.org  
+.:cccccccccccccccccccccc:;,..                 
+                                            Movies via YOUTUBE - https://www.youtube.com/@mattiasvinberg
+
+💖 Build with love in Stockholm for WSL - 2026 - Maintained by Mattias Vinberg
+
+----------------------------------------------------------------
