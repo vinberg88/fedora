@@ -34,14 +34,13 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 Fedora 43 and KDE 6 - WSL - How to install KDE 6 via Windows and Fedora 43 - Linux - YouTube - 2026
 
-How to install KDE 6 via Fedora 43 - WSL - TEXT VIA GITHUB - FEDORA 43
-Comming SONE text VIA GITHUB.
+How to install KDE 6 via Fedora 43 - https://github.com/vinberg88/fedora/blob/main/Fedora-43-KDE6.txt
 
 How to install KDE 6 via Fedora 43 - WSL - MOVIE VIA YOUTUBE - 2026
 Comming SONE Video from YouTUBE.
 
 <p align="center">
-  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-KDE6.txt">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora-43-KDE6.txt">
 <img width="1920" height="1080" alt="Fedora-43-KDE6" src="https://github.com/user-attachments/assets/c12f2db0-4fa9-4caa-be8e-1d7854002d91" />
   </a>
 </p>
