@@ -36,8 +36,7 @@ Fedora Linux is a Linux distribution developed by the Fedora Project. It was ori
 
 How to install GNOME 50 via Fedora 44 - https://github.com/vinberg88/fedora/blob/main/Fedora44-GNOME.txt
 
-Fedora 44 and GNOME 50 for WSL - How to install GNOME via Windows and Fedora 44 - Linux - YouTube - 2026
-COMMING SONE - WORKING ON THIS NOW...
+Fedora 44 and GNOME 50 for WSL VIA YOUTUBE - https://www.youtube.com/watch?v=CY2xYHeUTEI
 
 <p align="center">
   <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-GNOME.txt">
