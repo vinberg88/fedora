@@ -3,7 +3,7 @@ Fedora 44 and GNOME 50 - WSL - How to install GNOME 50 via Windows and Fedora 44
 THIS IS BETA FOR TESTING AND FUN - FEDORA 50 AND GNOME DESKTOP.
 
 How to install GNOME 50 via Fedora 44 - WSL - TEXT VIA GITHUB.
-Comming sone...
+https://github.com/vinberg88/fedora/blob/main/Fedora44-GNOME.txt
 
 How to install GNOME 50 via Fedora 44 - WSL - MOVIE VIA YOUTUBE.
 Comming sone...
