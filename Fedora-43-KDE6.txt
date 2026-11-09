@@ -1,7 +1,7 @@
 Fedora 43 and KDE 6 - WSL - How to install KDE 6 via Windows and Fedora 43 - X410 - Linux - YouTube - 2026
 
 How to install KDE 6 via Fedora 43 - WSL - TEXT VIA GITHUB - FEDORA 43
-Comming SONE text VIA GITHUB.
+https://github.com/vinberg88/fedora/blob/main/Fedora-43-KDE6.txt
 
 How to install KDE 6 via Fedora 43 - WSL - MOVIE VIA YOUTUBE - 2026
 Comming SONE Video from YouTUBE.
