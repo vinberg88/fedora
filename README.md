@@ -38,7 +38,7 @@ Fedora 45 download here - https://github.com/vinberg88/fedora/releases
 
 How to install GNOME 51 via FEDORA 45 - https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt
 
-How to install GNOME 51 via FEDORA 45 - WSL - MOVIE VIA YOUTUBE - Comming SONE...
+How to install GNOME 51 via FEDORA 45 - MOVIE VIA YOUTUBE - https://www.youtube.com/watch?v=3IEWapNdmOU
 
 <p align="center">
   <a href="https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt">
