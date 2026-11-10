@@ -30,7 +30,27 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ---
 
-## 🖥️ NEW - FEDORA 45 and GNOME 51 for WSL - 2026
+## 🖥️ FEDORA 46 RAWHIDE and GNOME 51 for WSL - 2026
+
+How to install GNOME 51 via FEDORA 46 - https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt
+
+How to install GNOME 51 via FEDORA 46 - https://www.youtube.com/watch?v=0hjNKvtV1c8
+
+About FEDORA 46 - Rawhide Prerelease -- https://fedoraproject.org
+
+Rawhide is next version of FEDORA 46 https://github.com/Userfrom1995/FedoraRawhide/releases
+
+Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat
+Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge 
+of open-source technologies. It is now the upstream source for CentOS Stream and Red Hat Enterprise Linux - 2026
+
+
+
+
+
+---
+
+## 🖥️ FEDORA 45 and GNOME 51 for WSL - 2026
 
 How to install GNOME 51.1 via Windows and FEDORA 45 - Linux - Wayland - 2026
 
