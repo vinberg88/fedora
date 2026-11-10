@@ -32,7 +32,7 @@ The collection is intended to cover **Fedora 39–45**, with each desktop docume
 
 ## 🖥️ FEDORA 46 RAWHIDE and GNOME 51 for WSL - 2026
 
-How to install GNOME 51 via FEDORA 46 - https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt
+Install GNOME 51 via FEDORA 46 - https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt
 
 How to install GNOME 51 via FEDORA 46 - https://www.youtube.com/watch?v=0hjNKvtV1c8
 
