@@ -38,7 +38,7 @@ Fedora 45 download here - https://github.com/vinberg88/fedora/releases
 
 How to install GNOME 51 via FEDORA 45 - https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt
 
-How to install GNOME 51 via FEDORA 45 - MOVIE VIA YOUTUBE - https://www.youtube.com/watch?v=3IEWapNdmOU
+How to install GNOME 51 via FEDORA 45 - MOVIE - https://www.youtube.com/watch?v=3IEWapNdmOU
 
 <p align="center">
   <a href="https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt">
@@ -61,7 +61,7 @@ Fedora Linux is a Linux distribution developed by the Fedora Project. It was ori
 
 How to install GNOME 50 via Fedora 44 - https://github.com/vinberg88/fedora/blob/main/Fedora44-GNOME.txt
 
-Fedora 44 and GNOME 50 for WSL VIA YOUTUBE - https://www.youtube.com/watch?v=CY2xYHeUTEI
+Fedora 44 and GNOME 50 for WSL VIA YOUTUBE - MOVIE - https://www.youtube.com/watch?v=CY2xYHeUTEI
 
 <p align="center">
   <a href="https://github.com/vinberg88/fedora/blob/main/Fedora44-GNOME.txt">
