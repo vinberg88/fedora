@@ -6,7 +6,7 @@ How to install GNOME 51 via FEDORA 46 - TEXT VIA GITHUB.
 https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt
 
 How to install GNOME 51 via FEDORA 46 - WSL - MOVIE VIA YOUTUBE.
-Comming SONE...
+https://www.youtube.com/watch?v=0hjNKvtV1c8
 
 Tools that i USE for WSL - Microsoft - Linux - 2026 - FEDORA 46 - GNOME 51
 
