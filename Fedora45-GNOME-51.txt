@@ -6,7 +6,7 @@ How to install GNOME 51.1 via FEDORA 45 - WSL - TEXT VIA GITHUB.
 https://github.com/vinberg88/fedora/edit/main/Fedora45-GNOME-51.txt
 
 How to install GNOME 51.1 via FEDORA 45 - WSL - MOVIE VIA YOUTUBE.
-Comming SONE...
+https://www.youtube.com/watch?v=3IEWapNdmOU
 
 Install FEDORA 45 via Powershell: wsl.exe --install FedoraLinux-45 --name Fedora45
 
