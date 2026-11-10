@@ -3,7 +3,7 @@ Fedora Rawhide 46 and GNOME 51 - WSL - How to install GNOME via Windows 11 and F
 Fedora Linux 46 Rawhide - https://github.com/Userfrom1995/FedoraRawhide/releases
 
 How to install GNOME 51 via FEDORA 46 - TEXT VIA GITHUB.
-Comming SONE...
+https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt
 
 How to install GNOME 51 via FEDORA 46 - WSL - MOVIE VIA YOUTUBE.
 Comming SONE...
