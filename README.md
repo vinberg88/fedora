@@ -44,9 +44,17 @@ Fedora Linux is a Linux distribution developed by the Fedora Project. It was ori
 Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge 
 of open-source technologies. It is now the upstream source for CentOS Stream and Red Hat Enterprise Linux - 2026
 
+<p align="center">
+  <a href="https://github.com/vinberg88/fedora/blob/main/Fedora-Rawhide-WSL-GNOME.txt">
+<img width="1920" height="1080" alt="Fedora 46 Rawhide WSL GNOME" src="https://github.com/user-attachments/assets/7f606583-6a14-4ac0-8193-57d96d16b5dd" />
+  </a>
+</p>
 
+About GNOME 51 -- https://www.gnome.org - FEDORA 46 - Rawhide Prerelease
 
+GNOME is designed to help you have the best possible computing experience. Every aspect of GNOME has been crafted to fit together as a harmonious whole, providing a consistent and integrated experience. Our attention to detail means a smooth and polished product that lets you do the things you want without getting in the way. GNOME is satisfying to use and beautiful to behold. GNOME provides a focused working environment that helps you get things done. 
 
+FIND ME HERE - WSL - https://github.com/vinberg88
 
 ---
 
